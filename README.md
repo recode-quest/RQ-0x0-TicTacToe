@@ -24,6 +24,7 @@ Implement your own Tic Tac Toe game!
 
 Assuming you want to be listed here, you need to supply your solution until 27.02.2021 18:00 CET and comply with [regulations](https://github.com/recode-quest/REGULATIONS).
 
+- [Tathn](https://github.com/Tathn/Random-exercises/tree/main/sockets-telnet-tictactoe)
 - [appollock](https://github.com/appollock/RQ-0x0-TicTacToe)
 - [Pyoneru](https://github.com/Pyoneru/RQ-0x0-TicTacToe)
 - [Commander](https://github.com/recode-quest/RQ-0x0-TicTacToe/tree/commander)
