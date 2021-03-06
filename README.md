@@ -10,3 +10,10 @@ ______ _____         ______       _____                 _
 # FINAL 0x0 TIC TAC TOE 
 
 https://www.youtube.com/watch?v=RQ61hMVDDZs
+
+Required libraries:
+
+- Adafruit Touchscreen
+- Elagoo GFX
+- Elagoo TFTLCD
+- IRremote
